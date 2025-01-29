@@ -1,0 +1,17 @@
+
+"australian_cities" = "Australian Cities";
+"cityDetail_title" = "City Details";
+"state_title" = "State";
+"country_title" = "Country";
+"latitude_title" = "Latitude";
+"longitude_title" = "Longitude";
+"population_title" = "Population";
+"capital_title" = "Capital";
+"iso2_title" = "ISO2";
+"reverse_order" = "Reverse";
+"file_name" = "FileName";
+"missing_file" = "Error loading file or missing file name in Info.plist";
+"welcome_message"= "Welcome to Australian Cities";
+"globe_image" = "globe";
+"location_image" = "location.fill";
+"flag_image" = "flag.fill";
